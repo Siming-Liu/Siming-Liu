@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://siming-liu.github.io/sitemap.xml
+Sitemap: https://Siming-Liu.github.io/sitemap.xml
